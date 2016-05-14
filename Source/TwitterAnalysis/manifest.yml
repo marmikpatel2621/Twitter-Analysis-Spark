@@ -1,0 +1,6 @@
+---
+applications:
+- name: TwitterAnalysis1
+  memory: 2048M
+  host: TwitterAnalysis1
+  domain: mybluemix.net
