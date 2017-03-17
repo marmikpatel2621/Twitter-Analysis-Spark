@@ -34,5 +34,4 @@ The Java web application developed as a part of course work *Principle of Big Da
 
 * **[Documentation](https://github.com/marmikpatel2621/Twitter-Analysis-Spark/blob/master/Documentation/Project%20Report.pdf)** 
 
-* **Poster:**
-![Poster](https://github.com/marmikpatel2621/Twitter-Analysis-Spark/blob/master/Documentation/poster_pb.pdf)
+* **[Poster](https://github.com/marmikpatel2621/Twitter-Analysis-Spark/blob/master/Documentation/poster_pb.pdf)**
